@@ -9,6 +9,10 @@
             <base-name>org.primefaces.examples.build</base-name>
             <var>build</var>
         </resource-bundle>
+        <resource-bundle>
+            <base-name>org.primefaces.examples.i18n</base-name>
+            <var>lable</var>
+        </resource-bundle>
     </application>
 
     <factory>
